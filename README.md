@@ -13,5 +13,11 @@ Runnables
     RunnableLambda
     RunnableParallel
 LCEL
+    batch
+    stream
 Output Parsers
 Memory 
+
+
+TBD 
+ Getting Started - add activities to load custom models such Sherlock etc , also add LLM Vs Chat Model
