@@ -7,14 +7,15 @@ Getting Started
 Templates
     Prompt Templates
     Chat Prompt Templates
-    Messages
+    Messages TBD
+LCEL
+    batch
+    stream
 Runnables
     RunnableSequence
     RunnableLambda
     RunnableParallel
-LCEL
-    batch
-    stream
+
 Output Parsers
 Memory 
 
