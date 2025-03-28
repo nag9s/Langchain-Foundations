@@ -21,3 +21,7 @@ pip install -r requirements.txt
 ## Installation
 
 curl -fsSL https://ollama.com/install.sh | sh
+
+## Pull models
+Syntax ollama pull <modelname>
+eg ollama pull llama3.2:1b
