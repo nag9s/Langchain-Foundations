@@ -9,7 +9,7 @@ conda activate langchain
 conda deactivate langchain
 
 ## Remove Environment
-conda create -n langchain python=3.12.4 -y
+conda env remove -n langchain -y
 
 ## Install Requirements
 ls
