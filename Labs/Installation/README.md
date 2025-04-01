@@ -6,7 +6,7 @@ conda create -n langchain python=3.12.4 -y
 conda activate langchain
 
 ## Deactivate Environment
-conda deactivate langchain
+conda deactivate
 
 ## Remove Environment
 conda env remove -n langchain -y
