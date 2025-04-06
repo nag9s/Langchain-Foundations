@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ## Installation
 
 curl -fsSL https://ollama.com/install.sh | sh
+curl http://127.0.0.1:11434
+
+ollama serve
 
 ## Pull models
 Syntax ollama pull <modelname>
